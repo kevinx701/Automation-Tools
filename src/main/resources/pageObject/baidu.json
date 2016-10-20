@@ -1,0 +1,31 @@
+{"elements":[{
+	"name":"UserID", 
+	"Type":"editor", 
+	"handler":{
+		"css":"#userid", 
+	}
+},{
+	"name":"Password", 
+	"Type":"editor", 
+	"handler":{
+		"css":"#pass", 
+	}
+},{
+	"name":"login", 
+	"Type":"button", 
+	"handler":{
+		"css":"#login_submit", 
+	}
+},{
+	"name":"user profile", 
+	"Type":"button", 
+	"handler":{
+		"css":"#user-dropdown", 
+	}
+},{
+	"name":"My profile", 
+	"Type":"button", 
+	"handler":{
+		"css":".sp-profile-my-profile", 
+	}
+}]}

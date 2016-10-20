@@ -1,0 +1,14 @@
+{"elements":[{
+	"name":"SearchBox3", 
+	"Type":"WebElement", 
+	"handler":{
+		"css":"#sb_form_q", 
+		"xpath" : ".//*[@id='sb_form_q']"
+	}
+},{
+	"name":"SearchButton3", 
+	"Type":"WebElement", 
+	"handler":{
+		"css":"#sb_form_go", 
+	}
+}]}

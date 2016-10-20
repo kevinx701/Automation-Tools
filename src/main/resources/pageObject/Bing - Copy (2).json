@@ -1,0 +1,27 @@
+{"elements":[{
+	"name":"SearchBox", 
+	"Type":"editor", 
+	"handler":{
+		"css":"#sb_form_q", 
+		"xpath" : ".//*[@id='sb_form_q']"
+	}
+},{
+	"name":"SearchButton", 
+	"Type":"editor1", 
+	"handler":{
+		"css":"#sb_form_go", 
+	}
+},{
+	"name":"SearchBox2", 
+	"Type":"editor", 
+	"handler":{
+		"css":"#sb_form_q", 
+		"xpath" : ".//*[@id='sb_form_q']"
+	}
+},{
+	"name":"SearchButton2", 
+	"Type":"editor1", 
+	"handler":{
+		"css":"#sb_form_go", 
+	}
+}]}
